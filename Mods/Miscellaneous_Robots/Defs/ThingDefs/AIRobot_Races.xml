@@ -121,7 +121,7 @@
 		</statBases>
 		<verbs>
 			<li>
-				<verbClass>Verb_MeleeAttack</verbClass>
+				<verbClass>Verb_MeleeAttackDamage</verbClass>
 				<defaultCooldownTime>1.45</defaultCooldownTime>
 				<meleeDamageBaseAmount>1</meleeDamageBaseAmount>
 				<meleeDamageDef>Blunt</meleeDamageDef>
